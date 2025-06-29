@@ -1,5 +1,6 @@
 package CreationalDesignPattern.FactoryDesignPattern.FactoryMethodPattern.DialogApp;
 
+//Creator
 abstract class DialogFactory {
 
     abstract Dialog createDialogInstance();
