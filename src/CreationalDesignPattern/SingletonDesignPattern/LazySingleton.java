@@ -9,6 +9,7 @@ package CreationalDesignPattern.SingletonDesignPattern;
 public class LazySingleton {
     private static LazySingleton instance;
 
+    //make constructor private so that no one can create object using new.
     private LazySingleton(){
         System.out.println("LazySingleton instance created.");
     }
