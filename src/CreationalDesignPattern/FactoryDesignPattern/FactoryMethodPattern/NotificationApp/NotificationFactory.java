@@ -1,8 +1,6 @@
 package CreationalDesignPattern.FactoryDesignPattern.FactoryMethodPattern.NotificationApp;
 
 public abstract class NotificationFactory {
-    public NotificationFactory() {
-    }
 
     protected abstract Notification createNotification();
 
