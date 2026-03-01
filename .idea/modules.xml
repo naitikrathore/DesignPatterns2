@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/DesignPatterns2.iml" filepath="$PROJECT_DIR$/DesignPatterns2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AllYouNeedForLLDInterview.iml" filepath="$PROJECT_DIR$/AllYouNeedForLLDInterview.iml" />
     </modules>
   </component>
 </project>
