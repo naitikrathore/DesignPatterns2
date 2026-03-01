@@ -1,7 +1,7 @@
 package PractiseLLD.TextEditor;
 
 public class MainEditiorRun {
-    public static void main(String[] args) {
+    static void main(String[] args) {
 
         Editor editor = Editor.getInstance();
 
