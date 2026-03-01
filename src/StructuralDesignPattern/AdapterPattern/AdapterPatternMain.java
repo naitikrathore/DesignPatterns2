@@ -7,7 +7,7 @@ package StructuralDesignPattern.AdapterPattern;
  * can be used with a unified interface via Adapters.
  */
 public class AdapterPatternMain {
-     static void main(String[] args) {
+     public static void main(String[] args) {
         // Use PayPal via adapter
         PayPalAPI payPalAPI = new PayPalAPI();
         PaymentGateway payPalGateway = new PayPalAPIAdapter(payPalAPI);
